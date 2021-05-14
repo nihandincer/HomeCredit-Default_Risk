@@ -6,9 +6,9 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 
 ## 1.Loading Data
 
-*certifi==2020.12.5
-*chardet==4.0.0
-*cycler==0.10.0
+* certifi==2020.12.5
+* chardet==4.0.0
+* cycler==0.10.0
 *idna==2.10
 *joblib==1.0.1
 *kaggle==1.5.12
