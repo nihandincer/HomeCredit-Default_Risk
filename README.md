@@ -4,7 +4,7 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-## 1.Loading Data
+## 1.Loading Packages
 
 * certifi==2020.12.5
 * chardet==4.0.0
@@ -72,3 +72,8 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 
 * HomeCredit_columns_description.csv
 * This file contains descriptions for the columns in the various data files.
+
+## 3.Understanding the Data
+
+![home_credit](https://user-images.githubusercontent.com/73366410/118275619-560f3800-b4cf-11eb-8883-3de8c0b33ec6.png)
+
