@@ -4,7 +4,7 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-## 1.Loading Packages
+## 1.Packages
 
 * certifi==2020.12.5
 * chardet==4.0.0
@@ -71,9 +71,9 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
   * There is a) one row for every payment that was made plus b) one row each for missed payment. One row is equivalent to one payment of one installment OR one installment         corresponding to one payment of one previous Home Credit credit related to loans in our sample.
 
 * HomeCredit_columns_description.csv
-* This file contains descriptions for the columns in the various data files.
+  * This file contains descriptions for the columns in the various data files.
 
-## 3.Understanding the Data
+## 3.Understanding The Data
 
 ![home_credit](https://user-images.githubusercontent.com/73366410/118275619-560f3800-b4cf-11eb-8883-3de8c0b33ec6.png)
 
